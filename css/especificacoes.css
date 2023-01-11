@@ -3,6 +3,7 @@ section#conteudo {
     width: 1000px;
     margin: auto;    
 }
+
 iframe#frame-spec {
     width: 400px;
     height: 300px;
@@ -10,8 +11,9 @@ iframe#frame-spec {
     /*
     não funcionou para esconder a scroolbar 
     overflow: hidden;
-    */    
+    */
 }
+
 /*
 não funcionou para esconder a scrollbar
 iframe#frame-spec::-webkit-scrollbar {
