@@ -4,36 +4,62 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tudo sobre Google Glass</title>
+	<link rel="stylesheet" href="css/estilo.css"/>
+	<link rel="stylesheet" href="css/estilo.css"/>
 </head>
+<script language="JavaScript" src="js/funcoes.js"></script>
 <body>
-    <h1>
-        Google Glass
-        A revolução do Google está chegando
-
-        [AQUI ENTRA UMA FOTO]
-
-        Menu Principal
-        - Home
-        - Especificações
-        - Fotos
-        - Multimídia
-        - Fale conosco
-
-        Glass > Multimídia
-        Sons e Vídeos
-        por Marcos Morandi
-        Atualizado em 10/01/2023
-
-
-        Áudio e Vídeo
-
-        [AQUI ENTRA UM VÍDEO]
-        [AQUI ENTRA UM ÁUDIO]
-
-        Copyright 2023 - by Marcos Morandi
-        Créditos - cursoemvideo.com
-        Facebook | Twitter
-    </h1>
+	<div id="interface">
+		<header id="cabecalho">
+			<hgroup>
+				<h1>Google Glass</h1>
+				<h2>A revolução do Google está chegando</h2>
+			</hgroup>
+			<img id="icone" src="images/multimidia.png" />
+			<nav id="menu">
+				<h1>Menu Principal</h1>
+				<ul type="disk">
+					<li onmouseover="mudaFoto('images/home.png')" onmouseout="mudaFoto('images/multimidia.png')"><a href="index.html">Home</a></li>
+					<li onmouseover="mudaFoto('images/especificacoes.png')" onmouseout="mudaFoto('images/multimidia.png')"><a href="especificacoes.html">Especificações</a></li>
+					<li onmouseover="mudaFoto('images/fotos.png')" onmouseout="mudaFoto('imagens/multimidia.png')"><a href="especificacoes.html"><a href="fotos.html">Fotos</a></li>
+					<li onmouseover="mudaFoto('images/multimidia.png')" onmouseout="mudaFoto('images/multimidia.png')"><a href="especificacoes.html"><a	href="multimidia.html">Multimídia</a></li>
+					<li onmouseover="mudaFoto('images/contato.png')" onmouseout="mudaFoto('images/multimidia.png')"><a href="especificacoes.html"><a href="fale-conosco.html">Fale conosco</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section id="corpo-full">
+			<article id="noticia-principal">
+				<header id="cabecalho-artigo">
+					<hgroup>
+						<h3>Glass > Multimídia</h3>
+						<h1>Sons e Vídeos</h1>
+						<h2>por Marcos Morandi</h2>
+						<h3 class="direita">Atualizado em 10/01/2023</h3>
+					</hgroup>
+				</header>
+				<div id="tv-radio">
+					<audio id="musica" controls="controls">
+						<source src="media/2009-lovers-carvings-bibio.mp3" type="audio/mpeg"/>
+						<source src="media/2009-lovers-carvings-bibio.m4a" type="audio/x-aac"/>
+						<source src="media/2009-lovers-carvings-bibio.ogg" type="audio/ogg"/>
+						<!--Se o navegador não puder executar os arquivos de audio ou video (por ser antigo por exemplo) exibe a mensagem abaixo-->
+						Desculpe, mas não foi possível carregar o áudio.
+					</audio>
+					<video id="filme" controls="controls" poster="images/video-mini03.jpg">
+						<source src="media/getting-started.mp4" type="video/mp4"/>
+						<source src="media/getting-started.webm" type="video/webm"/>
+						<source src="media/getting-started.ogv" type="video/ogg"/>
+						<!--Se o navegador não puder executar os arquivos de audio ou video (por ser antigo por exemplo) exibe a mensagem abaixo-->
+						Desculpe, mas não foi possível carregar o vídeo.
+					</video>
+				</div>
+			</article>
+		</section>
+		<footer id="rodape">
+			<p>Copyright 2023 - by Marcos Morandi (fonte: cursoemvideo.com)<br />
+			<a href="http://facebook.com/cursoemvideo" target="_blank">Facebook</a> | <a href="http://twitter.com/cursoemvideo" target="_blank">Twitter</a></p>	
+		</footer>
+	</div>
 </body>
 </html>
