@@ -1,21 +1,21 @@
 @charset "UTF-8";
 div#tv-radio {
-    width: 900px;
-    height: 580px;
-    margin: auto;
-    background: url("../images/radio-tv.png") no-repeat;
+  width: 900px;
+  height: 580px;
+  margin: auto;
+  background: url("../images/radio-tv.png") no-repeat;
 }
-audio#musica {
-    display: block;
-    position: relative;
-    left: 575px;
-    top: 489px;
-    width: 300px;
+div#tv-radio audio#musica {
+  display: block;
+  position: relative;
+  left: 575px;
+  top: 495px;
+  height: 40px;
 }
-video#filme {
-    display: block;
-    position: relative;
-    left: 88px;
-    top: 63px;
-    width: 440px;
+div#tv-radio video#filme {
+  display: block;
+  position: relative;
+  left: 88px;
+  top: 80px;
+  width: 440px;
 }
