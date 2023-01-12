@@ -1,9 +1,10 @@
 # googleglass-html-css-javascript
 
-A um tempo atrás fiz um site que não era responsivo e tinhas alguns erros.
-Isso me incomodou bastante na época e acho que chegou a hora de revisitar aqueles arquivos abandonados em um canto do SSD e resolver isso tudo.
+A um tempo atrás fiz um site que ficou com alguns erros que não pude resolver na época.
+Isso me incomodou bastante e acho que chegou a hora de revisitar aqueles arquivos abandonados em um canto do SSD e arrumar isso.
 
 ### Tarefas:
 
-- [X] Corrigir erros.
-- [ ] Corrigir falta de responsividade.
+- [X] Corrigir vídeos.
+- [ ] Corrigir menus.
+- [ ] Corrigir ícones.
