@@ -6,4 +6,4 @@ Isso me incomodou bastante na época e acho que chegou a hora de revisitar aquel
 ### Tarefas:
 
 - [X] Corrigir erros menores.
-- [X] Corrigir falta de responsividade na resolução 4k, nos menus "HOME", "ESPECIFICAÇÕES", "FOTOS", "MULTIMIDIA", "FALE CONOSCO" e seus respectivos ícones.
+- [ ] Corrigir falta de responsividade na resolução 4k, nos menus "HOME", "ESPECIFICAÇÕES", "FOTOS", "MULTIMIDIA", "FALE CONOSCO" e seus respectivos ícones.
