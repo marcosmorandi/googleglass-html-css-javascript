@@ -8,21 +8,4 @@ iframe#frame-spec {
     width: 400px;
     height: 300px;
     border: none;
-    /*
-    não funcionou para esconder a scroolbar 
-    overflow: hidden;
-    */
 }
-
-/*
-não funcionou para esconder a scrollbar
-iframe#frame-spec::-webkit-scrollbar {
-    display: none;
-}
-*/
-
-/*
-a solução para esconder o scroll foi:
-<iframe src="google-glass.html" name="janela" id="frame-spec" scrolling="no"></iframe>
-na linha 48 do specs.html
-*/
