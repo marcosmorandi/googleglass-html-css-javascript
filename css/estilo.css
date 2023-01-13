@@ -67,7 +67,6 @@ header#cabecalho h2 {
   margin-top: 0px;
 }
 
-/* Formatação de imagens com legendas */
 figure.foto-legenda {
   position: relative;
   border: 8px solid white;
@@ -100,13 +99,14 @@ figure.foto-legenda:hover figcaption {
 nav#menu {
   display: block;
 }
-/* Corrigir munus aqui */
+
+/* Menus "Home" "Especificações" "Fotos" "Multimídia" "Fale conosco" */
 nav#menu ul {
-  list-style: none;
-  position: static; /* position: absolute; */
-  float: right; /* nada aqui  */
-  /*top: -20px;*/ /* top: -20px; */
-  /*left: 450px;*? /* left: 450px; */
+  list-style: none;  
+  position: relative;  
+  float: right;
+  top: -110px;
+  left: auto;
 }
 
 nav#menu li {
