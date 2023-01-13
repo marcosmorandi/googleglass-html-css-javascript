@@ -6,5 +6,5 @@ Isso me incomodou bastante e acho que chegou a hora de revisitar aqueles arquivo
 ### Tarefas:
 
 - [X] Corrigir vídeos.
-- [ ] Corrigir menus.
+- [X] Corrigir menus.
 - [ ] Corrigir ícones.
