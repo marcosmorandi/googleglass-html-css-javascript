@@ -36,10 +36,10 @@ a:hover {
   text-decoration: underline;
 }
 /* Os ícones que mudam conforme o menu. */
-header#cabecalho img#icone {
+header#cabecalho img#icone {  
   position: absolute;
   left: 920px;
-  top: 82px;
+  top: 82px;    
 }
 
 header#cabecalho {
@@ -101,13 +101,13 @@ nav#menu {
 }
 
 /* Os menus "Home", "Especificações", "Fotos", "Multimídia" e "Fale conosco". */
-nav#menu ul {
-  list-style: none;  
-  position: relative;  
-  float: right;
-  top: -110px;
-  left: auto;
-}
+/*nav#menu ul {*/
+  /*list-style: none;*/  
+  /*position: relative;*/  
+  /*float: right;*/
+  /*top: -125px;*/
+  /*right: auto;*/
+/*}*/
 
 nav#menu li {
   display: inline-block;
