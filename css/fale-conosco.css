@@ -46,3 +46,9 @@ fieldset#mensagem {
 fieldset#pedido {
     background: url("../images/icone-pagamento.png") no-repeat 95% 95%;
 }
+
+div#botao-enviar {    
+    position: relative;    
+    text-align: center;
+    top: -10px;
+}
