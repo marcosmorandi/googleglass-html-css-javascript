@@ -7,5 +7,5 @@ Um site simples, usando HTML, CSS e JavaScript.
 </p>
 <br/>
 <p>
-    <a href="https://googleglass-html-css-javascript.netlify.app/"></a>
+    <https://googleglass-html-css-javascript.netlify.app/>
 </p>
