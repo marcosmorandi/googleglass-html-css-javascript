@@ -3,7 +3,7 @@
 Um site simples, usando HTML, CSS e JavaScript.
 <br/>
 <br/>
-<a href="https://googleglass-html-css-javascript.netlify.app/" target="_blank">https://googleglass-html-css-javascript.netlify.app/</a>
+[Link Text](https://googleglass-html-css-javascript.netlify.app/){:target="-_blank"}
 <br/>
 <br/>
 <p align="center">
