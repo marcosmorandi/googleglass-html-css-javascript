@@ -2,7 +2,7 @@
 
 Um site simples, usando HTML, CSS e JavaScript.
 <br/>
-<p align="center" zoom="200%">
+<p align="center">
     <img src="media/gif-readme.gif">
 </p>
 <br/>
