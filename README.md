@@ -3,7 +3,7 @@
 Site usando HTML, CSS e JavaScript.
 <br/>
 <br/>
-<img src="media/pinch-of-js.jpg">
+<img src="media/pinch-of-js-200.jpg">
 <br/>
 <br/>
 <a href="https://googleglass-html-css-javascript.netlify.app/" target="_blank">https://googleglass-html-css-javascript.netlify.app/</a>
