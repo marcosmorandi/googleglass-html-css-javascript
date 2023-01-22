@@ -9,4 +9,5 @@ Site usando HTML, CSS e JavaScript.
 <p align="center">
     <img src="media/gif-readme.gif">
 </p>
-<p><img src="images/pinch-of-js.jpg"></p>
+<br/>
+<img src="images/pinch-of-js.jpg">
