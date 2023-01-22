@@ -1,6 +1,6 @@
 # googleglass-html-css-javascript
 
-Site usando HTML, CSS e JavaScript. <p><img src="images/pinch-of-js.jpg"></p>
+Site usando HTML, CSS e JavaScript.
 <br/>
 <br/>
 <a href="https://googleglass-html-css-javascript.netlify.app/" target="_blank">https://googleglass-html-css-javascript.netlify.app/</a>
@@ -9,3 +9,4 @@ Site usando HTML, CSS e JavaScript. <p><img src="images/pinch-of-js.jpg"></p>
 <p align="center">
     <img src="media/gif-readme.gif">
 </p>
+<p><img src="images/pinch-of-js.jpg"></p>
