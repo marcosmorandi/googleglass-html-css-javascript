@@ -10,4 +10,4 @@ Site usando HTML, CSS e JavaScript.
     <img src="media/gif-readme.gif">
 </p>
 <br/>
-<img src="images/pinch-of-js.jpg">
+<img src="media/pinch-of-js.jpg">
